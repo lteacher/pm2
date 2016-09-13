@@ -103,6 +103,12 @@
       "string"
     ]
   },
+  "watch_folders": {
+    "type": [
+      "array",
+      "string"
+    ]
+  },
   "ignore_watch": {
     "type": [
       "array",
